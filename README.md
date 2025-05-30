@@ -6,7 +6,7 @@ An AI-powered visual inspection system to detect defects in electronic component
 
 ## 📸 Use Cases
 
-- PCB visual inspection
+- PCBA visual inspection
 - Soldering defect detection
 - Component placement verification
 - Real-time quality control in electronics manufacturing
