@@ -1,4 +1,4 @@
-# 🛠️ Component Defect Detector
+# 🛠️ AI-Based Visual Inspection System for Electronic Component Defect Detection
 
 An AI-powered visual inspection system to detect defects in electronic components using YOLOv8. Supports real-time detection, REST API integration, database logging, dashboard monitoring, and cloud deployment.
 
