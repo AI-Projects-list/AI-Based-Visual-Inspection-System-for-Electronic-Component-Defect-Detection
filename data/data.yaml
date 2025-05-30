@@ -1,0 +1,7 @@
+# path: ./data
+# train: images/train
+# val: images/val
+# test: images/test
+
+nc: 5
+names: ['OK', 'Missing_Part', 'Scratch', 'Bent_Pin', 'Soldering_Issue']

@@ -1,0 +1,8 @@
+ultralytics
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+sqlalchemy
+psycopg2-binary
